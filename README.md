@@ -12,7 +12,7 @@ About Me
 
 **Status**: Currently Open for a Data Engineer Job
 
-**Contact**: Zalo (+91) 889 289 2666
+**Contact**: India (+91) 889 289 2666
 
 **Email**: krthiak@gmail.com
 
