@@ -1,12 +1,12 @@
 # Karthik Ravindra Rayakar - A Data Engineering Portfolio
 
-Exploring Data Realms: Karthik embarks on a journey through data engineering in Azure Development, followed by 5 years specializing in Azure Data Platform
+Exploring Data Realms: Karthik embarks on a journey through data engineering in Azure cloud, inspired over 7 years of career spanning 5 years over the Azure Cloud specializing on Azure Data Platform Development, Deployment and Maintenance
 
 **Update**: October 2nd, 2024
 
 **My CV / Resume**:  [DE Resume]() 
 
-About Me
+### About Me
 
 **Based**: Bengaluru, India
 
@@ -26,7 +26,7 @@ The CV is included within the repository
 
 This is a repository in which I can show off my skills, projects, and progression in Data Engineering / Artifical Intelligence.
 
-**Why Data Engineer?**
+### Why Data Engineer?
 
 At the beginning of my journey into the realm of data, I initially aspired to acquire a career in ETL to architect data driven solutions. However, as my career progressed, I dug deeply into various subjects and consistently be the best at, achieving the highest distinctions across disciplines.  While my focus wasn’t solely on excelling in these areas, my commitment to excellence resulted in commendable performance.  As I progressed in my career, I realized the potential for synergy between my aptitude in Data Analysis  and my proficiency in Software Development. This realization led me to the combination role of the both 2 fields:  As a Data Engineer - which was the best decision I have made in my lifetime.
 
@@ -72,7 +72,7 @@ What did I prepared? Everything. But if you are curious, here is the breakdown o
 
 19. OpenAI API
 
-# THANKS FOR YOUR ATTENTION!
+### THANKS FOR YOUR ATTENTION!
 
 Sincerely,
 
